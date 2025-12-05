@@ -4,9 +4,56 @@
 2. Show Tasks
 3. Remove Task
 4. Exit
+Choose an option: 1
+Enter a new task: SCHOOL
+Task added successfully!
+
+--- To-Do List Manager ---
+1. Add Task
+2. Show Tasks
+3. Remove Task
+4. Exit
+Choose an option: 2
+
+Your Tasks:
+1. SCHOOL
+
+--- To-Do List Manager ---
+1. Add Task
+2. Show Tasks
+3. Remove Task
+4. Exit
+Choose an option: 3
+1. SCHOOL
+Enter the number of the task to remove: 1
+Removed task: SCHOOL
+
+--- To-Do List Manager ---
+1. Add Task
+2. Show Tasks
+3. Remove Task
+4. Exit
+Choose an option: 2
+No tasks yet!
+
+--- To-Do List Manager ---
+1. Add Task
+2. Show Tasks
+3. Remove Task
+4. Exit
+Choose an option: 2
+No tasks yet!
+
+--- To-Do List Manager ---
+1. Add Task
+2. Show Tasks
+3. Remove Task
+4. Exit
 Choose an option: 4
 Exiting... Goodbye!
 
 
 ** Process exited - Return Code: 0 **
+
+
 
